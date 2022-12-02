@@ -19,7 +19,7 @@ node --version
 ## Clone this repository
 
 ```console
-
+git clone https://github.com/WilliamsMata/todoapp.git
 ```
 
 ## npm install for dependency
