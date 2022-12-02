@@ -10,6 +10,8 @@ Que desea hacer?
 6. Borrar tarea
 7. Salir
 
+![app preview](https://i.ibb.co/1XD35MG/todo-list-node.png)
+
 Make sure that you have NodeJs LTS install in your computer.
 
 ```console
